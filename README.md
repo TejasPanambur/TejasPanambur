@@ -73,7 +73,7 @@ tools = {
 - **Speech Recognition**: End-to-end ASR pipeline with deep neural networks
 
 ## 🎓 Education
-- Ph.D. in Electrical and Computer Engineering, UMass Amherst (Expected May 2025)
+- Ph.D. in Electrical and Computer Engineering, UMass Amherst (Expected Dec 2025)
 - M.S. in Electrical and Computer Engineering, UMass Amherst (2020)
 
 ## 📫 Let's Connect!

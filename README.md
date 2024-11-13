@@ -72,10 +72,6 @@ tools = {
 - **Video Colorization**: Deep learning-based B&W video colorization
 - **Speech Recognition**: End-to-end ASR pipeline with deep neural networks
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasPanambur&show_icons=true&theme=radical)
-
 ## 🎓 Education
 - Ph.D. in Electrical and Computer Engineering, UMass Amherst (Expected May 2025)
 - M.S. in Electrical and Computer Engineering, UMass Amherst (2020)

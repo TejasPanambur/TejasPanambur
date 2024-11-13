@@ -6,6 +6,12 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://tejaspanambur.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tpanambur@umass.edu)
 
+> 🔎 **Open for Opportunities!**
+> - 🌟 Seeking Summer 2025 Internships in AI/ML Research
+> - 💡 Interest Areas: Computer Vision, Self-Supervised Learning, Foundation Models
+> - 🤝 Open to Research Collaborations in Deep Learning & Planetary Science
+> - 📫 Reach out: [tpanambur@umass.edu](mailto:tpanambur@umass.edu)
+
 ## 🚀 About Me
 
 I'm an AI Research Scientist and Ph.D. candidate at UMass Amherst, specializing in machine learning, computer vision, and self-supervised learning. Currently, I'm advancing the field of self-supervised learning and multimodal AI to support NASA's Mars mission analysis through the Remote Hyperspectral Observers (RHO) group.  I've worked with SETI and Nokia Bell Labs on cutting-edge AI models as a research intern for planetary exploration and industry applications.

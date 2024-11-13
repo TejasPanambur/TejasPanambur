@@ -8,18 +8,19 @@
 
 ## 🚀 About Me
 
-I'm an AI Research Scientist and Ph.D. candidate at UMass Amherst, working at the intersection of machine learning, computer vision, and planetary science. Currently, I'm advancing the field of self-supervised learning and multimodal AI to support NASA's Mars mission analysis through the Remote Hyperspectral Observers (RHO) group.
+I'm an AI Research Scientist and Ph.D. candidate at UMass Amherst, specializing in machine learning, computer vision, and self-supervised learning. Currently, I'm advancing the field of self-supervised learning and multimodal AI to support NASA's Mars mission analysis through the Remote Hyperspectral Observers (RHO) group.  I've worked with SETI and Nokia Bell Labs on cutting-edge AI models as a research intern for planetary exploration and industry applications.
 
 ### 🔭 Research Focus
 - Self-supervised learning & deep clustering
-- Representation learning & texture analysis
+- Representation learning & deep texture analysis
 - Multimodal foundation models
-- Computer vision for planetary science
+- Generative AI
+- Computer vision
 
 ## 🏆 Notable Achievements
 
 ### 📝 Publications
-- **CVPR 2022**: Self-Supervised Learning for Martian Terrain Categorization
+- **CVPRw 2022**: Self-Supervised Learning for Martian Terrain Categorization
 - **IGARSS 2021-2023**: Multiple publications on deep clustering and texture recognition
 - Pioneering work in applying deep learning to planetary science datasets
 
@@ -32,7 +33,7 @@ I'm an AI Research Scientist and Ph.D. candidate at UMass Amherst, working at th
 
 ### Languages
 ```python
-languages = ['Python', 'C++', 'C', 'MATLAB', 'C#']
+languages = ['Python', 'C++', 'C', 'MATLAB']
 ```
 
 ### Frameworks & Tools
@@ -77,6 +78,7 @@ tools = {
 ---
 
 ### 🏃‍♂️ Currently Working On
-- Advancing self-supervised learning techniques for planetary science
-- Developing multimodal foundation models for geospatial data analysis
-- Improving deep clustering algorithms with spatial and textural constraints
+- Advancing self-supervised learning techniques for Martian Terrain Classification
+- Developing multimodal foundation models for finding correlations between hyperspectral datasets
+- Improving SOTA generalized category discovery
+

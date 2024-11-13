@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Animated Header](banner.gif)
 
 ## About Me

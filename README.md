@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m an AI Research Scientist and Ph.D. candidate in Electrical and Computer Engineering at UMass Amherst, specializing in machine learning, computer vision, and self-supervised learning. My research focuses on advanced clustering, representation learning, and multimodal AI, supporting NASA’s Mars mission analysis and other high-impact AI projects. I've worked with SETI and Nokia Bell Labs on cutting-edge AI models as a research intern for planetary exploration and industry applications.
+I’m an AI Research Scientist and Ph.D. candidate in Electrical and Computer Engineering at UMass Amherst, specializing in machine learning, computer vision, and self-supervised learning. My research focuses on self-supervised learning, representation learning, and multimodal AI, supporting NASA’s Mars mission analysis and other high-impact AI projects. I've worked with SETI and Nokia Bell Labs on cutting-edge AI models as a research intern for planetary exploration and industry applications.
 
 ## Highlights
 

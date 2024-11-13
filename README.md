@@ -29,6 +29,16 @@ I'm an AI Research Scientist and Ph.D. candidate at UMass Amherst, specializing 
 - **Nokia Bell Labs**: Advanced active learning strategies for efficient model training
 - **NASA Collaboration**: Improved Mars terrain analysis through novel deep learning approaches
 
+### 🎯 Competition & Hackathon
+- **MIT COVID-19 Challenge Winner** (2020)
+  - Track: Hospital-assets coordination, distribution, and management
+  - Developed innovative solutions for the automation of healthcare resource optimization
+  - [View Project Details](https://tejaspanambur.github.io/#:~:text=MIT%20COVID%2D19,Offical%20Press)
+
+- **Robert Bosch India** - 2nd Prize (2016)
+  - Technical Paper Presentation at INSCRIBE 2016
+  - Project: "Agrosquad - Agricultural Automation"
+
 ## 💻 Technical Skills
 
 ### Languages

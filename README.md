@@ -1,4 +1,4 @@
-# Hi there, I'm Tejas Panambur 👋 
+# Hi there 👋 
 
 ![Animated Header](banner.gif)
 

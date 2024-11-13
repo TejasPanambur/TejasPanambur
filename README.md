@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Tejas Panambur
 
-![Animated Header](assets/banner.gif)
+![Animated Header](banner.gif)
 
 ## About Me
 I’m an AI Research Scientist and Ph.D. Candidate working on advanced Mars mission imagery analysis.
